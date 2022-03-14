@@ -8,3 +8,4 @@
 FauziNurIkhsan/FauziNurIkhsan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[fauzi.zip](https://github.com/FauziNurIkhsan/FauziNurIkhsan/files/8242853/fauzi.zip)
